@@ -40,7 +40,7 @@ When this is done, your terminal should automatically open your preferred intern
 <img src="https://github.com/rmunoz2002/carps/blob/main/readme_images/nameinput.PNG" width="500">
    </p>
 
-3. Once a name is input it will display your FITS image (if you need to invert your image so high intensity corresponds to high pixel values, one can do so by clicking the "data correction" select box) and provide you with both a radio button widget and a drop down menu for pre-calculation image processing.  Begin by first selecting the radio button that correctly indicates the general direction the tail is pointing in (north, south, east, or west).  If the galaxy's tail is pointing in between these cardinal direction, one can simply select either of the cardinal directions associated with the tail based on whether its pointing more in one direction or the other.
+3. Once a name is input it will display your FITS image (if you need to invert your image so high intensity corresponds to high pixel values, one can do so by clicking the "data correction" select box) and provide you with both a radio button widget and a drop down menu for pre-calculation image processing.  Begin by first selecting the radio button that correctly indicates the general direction the tail is pointing in (north, south, east, or west).  If the galaxy's tail is pointing in between these cardinal directions, one can simply select either of the cardinal directions associated with the tail based on whether its pointing more in one direction or the other.
 
 <p align="center">
 <img src="https://github.com/rmunoz2002/carps/blob/main/readme_images/radiowidget.PNG" width="500">
