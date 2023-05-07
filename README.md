@@ -61,14 +61,18 @@ When this is done, your terminal should automatically open your preferred intern
 6. If the disk is defined, one can then select the distance out from the disk centroid to measure the tail angle at.  Note that these bounds on the distance are determined by the redshift of the galaxy and are thus subject to disagreement.  Regardless, once distance selection is done, pressing the "Calculate Tail Angle!" button will both update the graph to show the tail line (along with tail lines corresponding to just above and below the measured distance) and create a table with information surrounding the tail's position angle and its associated error.
 
 <p align="center">
+<img src="https://github.com/rmunoz2002/carps/blob/main/readme_images/selectdist.PNG" width="500">
+   </p>
+
+7. Once the table is filled out to your liking, press the "Export Data!" button to export the table as a .csv file. 
+
+<p align="center">
 <img src="https://github.com/rmunoz2002/carps/blob/main/readme_images/carpstable.PNG" width="500">
    </p>
 
 <p align="center">
 <img src="https://github.com/rmunoz2002/carps/blob/main/readme_images/finalimagecarps.PNG" width="500">
    </p>
-
-7. Once the table is filled out to your liking, press the "Export Data!" button to export the table as a .csv file. 
 
 Have fun!
 
