@@ -91,7 +91,7 @@ def reconvert_distances_to_pixels(distance, conversion_factor, wcs, disk_com, ns
 
     Parameters
     ----------
-    dist: int
+    distance: int
         the distance away from the galaxy centroid that one wishes to find the pixel value of, in kpc
     conversion_factor: float
         the conversion factor between kpc and arcsecs

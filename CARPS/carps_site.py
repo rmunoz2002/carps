@@ -298,8 +298,7 @@ if galaxy_data is not None:
                 st.session_state['points'] = []
                 st.experimental_rerun()
                     
-
-
+            # Getting coordinate values from user's clicks on the displayed image.
             if len(st.session_state['points']) >= 3:
                 draw.polygon(st.session_state['points'], outline= 'red')
             
@@ -360,7 +359,6 @@ if galaxy_data is not None:
 
 if galaxy_data is not None:
     if galaxy_name is not None:
-        
         # If a disk centroid is defined, allow users to continue with the tail measurement process
         # by creating a distance slider with appropiate distance values.
         if st.session_state.disk_com is not None:
